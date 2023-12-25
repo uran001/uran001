@@ -1,4 +1,4 @@
-- Senior student at UNIST
+- Learner
 
 
 <div align="center">
